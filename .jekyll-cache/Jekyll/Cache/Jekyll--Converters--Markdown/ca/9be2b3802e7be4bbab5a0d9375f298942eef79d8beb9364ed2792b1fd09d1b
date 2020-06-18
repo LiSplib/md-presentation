@@ -1,0 +1,24 @@
+I"�<p>Pour l’ombre de la box de sélection du mois:</p>
+
+<pre><code>
+    box-shadow: 1px 3px 15px 10px rgb(32, 32, 32) inset;
+</code></pre>
+
+<p>Pour les ombres des box du site:</p>
+
+<pre><code>
+    box-shadow: 5px 5px 60px 0px rgba(0, 0, 0, 0.5);
+</code></pre>
+
+<p>Polices utilisées</p>
+
+<pre><code>
+    font-family: "Barlow-Regular";
+    letter-spacing: 1px;
+    word-spacing: 1px;
+</code></pre>
+
+<pre><code>
+    font-family: "Hikou_Inline";
+</code></pre>
+:ET

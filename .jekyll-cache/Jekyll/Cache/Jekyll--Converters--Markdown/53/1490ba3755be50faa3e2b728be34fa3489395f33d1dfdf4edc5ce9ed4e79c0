@@ -1,0 +1,10 @@
+I"Z<p>Lors de l’inscription l’utilisateur peut faire la demande de s’inscrire comme Coach (possibilité de créer des évènements).
+Si tous les champs sont bien remplis :</p>
+<ul>
+  <li>Nom et prénom en majuscule ou minuscule uniquement (pas de chiffre ni de caractères spéciaux)</li>
+  <li>Email au format valide (xxxx@xxx.xx)</li>
+  <li>Une photo déjà hébergée sur un site le lien doit être valide.
+<em>(Si ce champs est laissé vide une image par défaut sera attribuée à l’utilisateur)</em></li>
+  <li>Et le mot de passe doit correspondre avec la confirmation demandée.</li>
+</ul>
+:ET

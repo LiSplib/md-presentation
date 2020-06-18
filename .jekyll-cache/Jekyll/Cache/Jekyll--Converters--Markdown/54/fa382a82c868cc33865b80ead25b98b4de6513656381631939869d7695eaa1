@@ -1,0 +1,9 @@
+I"�<ul>
+  <li>C’est lui qui validera les <a href="#members">coachs</a>.</li>
+  <li>Il validera aussi les <a href="#awaitEvent">évènements</a> avant leur publication.</li>
+  <li>Il a tout contrôle sur le site.</li>
+  <li>Il pourra modifier tous les profils et tous les évènements si besoin.</li>
+  <li>Il devra gérer les <a href="#socialMedia">tokens pour Instagram et Facebook.</a></li>
+  <li>Il pourra modifier certains éléments graphique du site dans <a href="#parameter">Paramètrage</a></li>
+</ul>
+:ET

@@ -1,0 +1,13 @@
+I"©<p>Chapter 1.3</p>
+
+<p>Example of unordered list:</p>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2
+    <ul>
+      <li>Item 2a</li>
+      <li>Item 2b</li>
+    </ul>
+  </li>
+</ul>
+:ET
