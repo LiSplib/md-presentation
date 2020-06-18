@@ -1,0 +1,10 @@
+I"N<p>Resizer</p>
+
+<p>Fonctionnalité en cours de développement.</p>
+
+<ul>
+  <li>Ira chercher les liens des photos (URL) dans la base de données</li>
+  <li>Les importes et les redimmensionnes au format choisi en gardant le bon aspect hauteur/largeur.</li>
+  <li>Permet une uniformisation des tailles des photos sur le site.</li>
+</ul>
+:ET

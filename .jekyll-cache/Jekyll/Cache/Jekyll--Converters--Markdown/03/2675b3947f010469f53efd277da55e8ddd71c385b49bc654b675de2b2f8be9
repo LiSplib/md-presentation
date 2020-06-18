@@ -1,0 +1,10 @@
+I"*<p>Barre de recherche</p>
+
+<ul>
+  <li>Elle permet de trouver un coach et/ou un évènement.</li>
+  <li>Fonctionne avec la première lettre</li>
+  <li>La recherche se fera sur les noms des coachs et/ou le titre d’un évènement.</li>
+</ul>
+
+<p><img src="/images/searchBar.jpg" alt="Search" /></p>
+:ET

@@ -1,0 +1,6 @@
+I"*<blockquote>
+  <p><strong>Pour Instagram :</strong>
+Il suffit d’appuyer sur le bouton Token 60j pour faire la demande de renouvellement du Token (valable 60 jours). Il faudra le faire avant que le compteur de jour restant ne tombe à 0 sinon il faudra recommencer toute la manipulation pour obtenir à nouveau un Token 60j.
+En appuyant sur le bouton Mise a jour après avoir demander un nouveau Token 60j, le nouveau token va s’enregistrer dans la base de donnée et y être stocké et appelé chaque fois qu’il sera nécessaire.</p>
+</blockquote>
+:ET
