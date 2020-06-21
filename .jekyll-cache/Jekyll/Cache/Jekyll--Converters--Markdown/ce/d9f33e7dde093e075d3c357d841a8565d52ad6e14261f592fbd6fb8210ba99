@@ -1,0 +1,9 @@
+I"D<h3 id="faille-csrf">Faille CSRF</h3>
+
+<p><small>La faille CSRF ( cross site request forgery) concerne nos utilisateurs connectés, on peut la définir simplement comme « faire exécuter a un utilisateur (connecté) des actions à son insu », sur le site un de nos coachs peut par exemple supprimer un événement. Pour prévenir ce type d’attaque, on utilise sur nos formulaires des jetons (token).</small></p>
+
+<p><small>Création d’un token</small>
+<img src="../images/tokenMake.jpg" alt="tokenMake" /></p>
+
+<p><img src="../images/tokenSend.jpg" alt="tokenSend" /></p>
+:ET

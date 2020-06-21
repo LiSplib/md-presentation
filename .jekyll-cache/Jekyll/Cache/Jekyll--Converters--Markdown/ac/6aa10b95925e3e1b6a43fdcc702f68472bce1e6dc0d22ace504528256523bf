@@ -1,0 +1,9 @@
+I"�<p>Démarrage</p>
+
+<p><small>Après déploiement du site</small>
+<small><strong>composer</strong> - installer les dépendances : <code class="language-plaintext highlighter-rouge">composer install</code></small>
+<small>créer la base de donnée avec le fichier sql (avec phpMyAdmin)</small>
+<small>mettre à jour le chemin vers le dossier racine du fichier <strong>config.php</strong> pour un déploiement (local ou hébergement web ligne : 33)</small>
+<small>mettre à jour <strong>PdoSql.php</strong> (dbname, host, user, password)</small>
+<small><strong>php.ini</strong> décommenter la ligne <code class="language-plaintext highlighter-rouge">user_agent</code> (pour les requètes HTTP a openstreetmap pour la localisation)</small></p>
+:ET

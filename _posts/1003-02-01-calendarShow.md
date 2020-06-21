@@ -2,10 +2,10 @@
 layout: post
 ---
 
-<img src="/images/calendarShow.jpg" alt="calendarShow" width=250>
+![calendar](../images/calendarShow.jpg){:width="550px"}
 
-Plus d'info sur l'événement
+<small>Plus d'info sur l'événement</small>
 
-- Heure, Créateur 
-- S'inscrire, s'intéresser ou partager (facebook, email, linkedin)
-- Nombres de participants et de personnes intéressées
+<small>Heure, Créateur, Description</small><br>
+<small>S'inscrire, s'intéresser ou partager (facebook, email, linkedin)</small>
+<small>Nombres de participants et de personnes intéressées</small>

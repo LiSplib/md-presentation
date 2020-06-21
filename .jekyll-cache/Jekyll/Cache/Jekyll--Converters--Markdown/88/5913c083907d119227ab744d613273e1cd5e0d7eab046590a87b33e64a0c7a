@@ -1,0 +1,13 @@
+I"<p><small>Utilisation des routes</small></p>
+
+<p><small>Dans le fichier <strong>.htaccess</strong></small>
+<small>Cette modification est appelée réécriture d’URL. C’est un moyen de mettre en œuvre le mappage ou le routage d’URL dans une application Web.</small></p>
+
+<p><code><IfModule mod_rewrite.c="">
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-l
+    RewriteRule ^(.+) index.php?r=$1 [QSA,L]
+</IfModule></code></p>
+:ET

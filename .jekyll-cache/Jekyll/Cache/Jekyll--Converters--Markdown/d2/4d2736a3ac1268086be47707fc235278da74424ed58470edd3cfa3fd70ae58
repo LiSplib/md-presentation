@@ -1,0 +1,7 @@
+I"-<p><img src="../images/valid_donnees.jpg" alt="valid-donnees" /></p>
+
+<p>Je commence par enlever tout les espaces en début et en fin de chaine <code class="language-plaintext highlighter-rouge">trim()</code>
+Ensuite je supprime les antislashs d’une chaîne <code class="language-plaintext highlighter-rouge">stipslashes()</code>
+Et je convertit les caractères spéciaux en entités HTML <code class="language-plaintext highlighter-rouge">htmlspecialchars()</code>
+J’applique cette fonction sur toutes les entrées utilisateurs de mes formulaires.</p>
+:ET

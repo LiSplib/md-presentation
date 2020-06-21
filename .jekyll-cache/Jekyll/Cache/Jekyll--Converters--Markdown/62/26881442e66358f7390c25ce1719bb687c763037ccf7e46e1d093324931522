@@ -1,0 +1,4 @@
+I"-<p>Dans le fichier <strong>index.php</strong></p>
+
+<p>La route par défaut est <strong><code class="language-plaintext highlighter-rouge">home</code></strong> (<em>retour si l’url demandé n’existe pas</em>) il faut donc penser a créer cette page ou modifier les informations de redirection.</p>
+:ET

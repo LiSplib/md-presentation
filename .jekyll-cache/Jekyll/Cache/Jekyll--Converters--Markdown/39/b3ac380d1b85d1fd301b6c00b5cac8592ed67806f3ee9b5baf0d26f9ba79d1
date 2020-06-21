@@ -1,0 +1,21 @@
+I"�<p>Gestion des messages Flash</p>
+
+<p><small>J’utilise les messages Flash pour avertir l’utillisateur de la réussite ou de l’echec de sa requête.
+Les messages flash sont gérés par la <code class="language-plaintext highlighter-rouge">$_SESSION['flash']</code>.
+Il faut lui donner en paramètres la couleur Bootstrap (‘danger’, ‘success’ etc) puis le message a afficher.
+La session est est détruite directement après son appel donc le message disparaît au rechargement de la page ou changement de page.</small>
+<small style="font-size: 10px!important;"></small></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;?php if(!empty($_SESSION['flash'])) : ?&gt;
+&lt;div class="container text-center mt-4"&gt;
+&lt;?php if(isset($_SESSION['flash'])): ?&gt;
+    &lt;?php foreach($_SESSION['flash'] as $type =&gt; $message): ?&gt;
+        &lt;div class="alert alert-&lt;?= $type; ?&gt;"&gt;
+            &lt;?= $message; ?&gt;
+        &lt;/div&gt;
+    &lt;?php endforeach; ?&gt;
+    &lt;?php unset($_SESSION['flash']); ?&gt;
+&lt;?php endif; ?&gt;
+&lt;/div&gt;
+&lt;?php endif; ?&gt;
+</code></pre></div></div>
+:ET

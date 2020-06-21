@@ -1,0 +1,8 @@
+I"�<p><small>J’ai du créer un compte développeur sur Facebook ensuite déclarer une app en cours de développement pour recevoir un ID d’app et un token secret pour m’authentifier et ainsi interroger l’API.</small></p>
+
+<p><small>J’ai installé le SDK fourni par Facebook avec <code class="language-plaintext highlighter-rouge">composer require facebook/graph-sdk</code></small></p>
+
+<p><small>J’ai paramétré mon controller FacebookLive et FacebookPage avec les informations de l’app (ID app et clé secrète) j’ai choisi de stocker ces informations directement dans ma base de donnée dans une table dédiée pour plus de sécurité et surtout pour une mise à jour plus rapide et efficace dans mon code.</small></p>
+
+<p><small>Le premier Token donné par Facebook n’est valable qu’une heure il faut l’échanger contre un <code class="language-plaintext highlighter-rouge">LongLivedToken</code> (Token valable 60 jours).</small></p>
+:ET

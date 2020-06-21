@@ -2,6 +2,6 @@
 layout: post
 ---
 
-<img src="/images/adminNavbar.jpg" width=350>
+<img src="../images/adminNavbar.jpg" width=350>
 
 <small>Les chiffres sur fond jaune indique de manière dynamique les élèments en attente(s)</small>

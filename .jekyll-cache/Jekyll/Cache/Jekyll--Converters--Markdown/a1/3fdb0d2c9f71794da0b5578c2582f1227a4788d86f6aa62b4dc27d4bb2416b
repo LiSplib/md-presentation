@@ -1,0 +1,8 @@
+I"�<p><small>Gestion des réseaux sociaux</small></p>
+
+<p><img src="/images/social.jpg" /></p>
+
+<p><small>Page de gestion des Tokens pour gérer les réseaux sociaux.</small>
+<small>Token 60j à renouveler avant la fin du compte a rebours, pour éviter de devoir refaire toute la procèdure.</small>
+<small>Toutes les informations (App ID, App Secret, token) sont stockées dans la BDD.</small></p>
+:ET

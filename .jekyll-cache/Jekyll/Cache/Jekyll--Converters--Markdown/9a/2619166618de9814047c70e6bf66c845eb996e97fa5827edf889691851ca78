@@ -1,0 +1,10 @@
+I"l<p><small>Création d’événement</small></p>
+
+<ul>
+  <li>Le titre doit avoir plus de 3 caractères</li>
+  <li>le thème doit être défini</li>
+  <li>la date et l’heure (heure de début avant la fin)</li>
+  <li>l’adresse est validé avec l’aide de l’API https://api.gouv.fr/</li>
+  <li>j’ai besoin d’une adresse valide pour la carte Waze</li>
+</ul>
+:ET

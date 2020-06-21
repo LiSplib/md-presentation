@@ -1,0 +1,11 @@
+I"(<p><img src="../images/calendar.jpg" alt="calendar" width="550px" /></p>
+
+<ul>
+  <li>La page principale du site</li>
+  <li>Affiche les événements du mois en cours</li>
+  <li>Création d’événement</li>
+  <li>Navigation de mois en mois</li>
+  <li>Visualisation rapide des thèmes</li>
+</ul>
+
+:ET

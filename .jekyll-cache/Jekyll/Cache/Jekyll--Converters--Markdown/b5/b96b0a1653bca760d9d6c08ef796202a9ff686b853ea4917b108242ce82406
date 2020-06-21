@@ -1,0 +1,15 @@
+I"D<p>Création d’un controller</p>
+
+<p><small>Lors de la création d’un controller il faudra implémenter ces méthodes :</small></p>
+
+<blockquote>
+  <ul>
+    <li>public function __construct(){
+}</li>
+    <li>public function httpGetRequest(){
+}</li>
+    <li>public function httpPostRequest(){
+}</li>
+  </ul>
+</blockquote>
+:ET

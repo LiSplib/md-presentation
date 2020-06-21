@@ -1,0 +1,8 @@
+I"�<p>!! Infos importantes !!</p>
+
+<p><small>A la première utilisation la personne qui va s’enregistrer en premier sera  <strong>superAdmin</strong> ( <em>c’est lui qui aura accès à toute les fonctionnalités : ajout Rôle admin, modification des utilisateurs et des évènements, validation d’évènement, gestion des tokens pour les réseaux sociaux etc…</em>).</small></p>
+
+<p><small>Tous les futurs enregistrements seront considérés comme utilisateurs (avec la possibilité de demander à être “admin / coach”).</small>
+<small>Dans <strong>layout.phtml</strong> j’ai configuré la redirection sur <code class="language-plaintext highlighter-rouge">addAdmin</code> par défaut si aucune <code class="language-plaintext highlighter-rouge">$_SESSION['auth']</code> n’est trouvée.
+L’utilisateur est obligé de s’enregister et se logger pour avoir accès au site.</small></p>
+:ET

@@ -1,0 +1,6 @@
+I"�<p>Une vérification côté serveur fera apparaître un petit texte en bas de chaque champ non valide.</p>
+
+<p><img src="../images/reg_valid.jpg" alt="erreor" width="650px" /></p>
+
+<p>J’utilise des filtres fournis par PHP pour cela.</p>
+:ET

@@ -1,0 +1,14 @@
+I"ê<p><small>Dans le fichier <strong>road.php</strong></small></p>
+
+<p><small>On commence par le nom de la route <code class="language-plaintext highlighter-rouge">'route' =&gt; [</code></small>
+<small>Ensuite on ouvre un tableau avec le controller <code class="language-plaintext highlighter-rouge">'controller' =&gt; 'NomDuController',</code></small>
+<small>On le lie √† la vue <code class="language-plaintext highlighter-rouge">'view' =&gt; 'nom_de_la_vue.phtml']</code></small></p>
+
+<p><small>Ca donne :</small></p>
+
+<pre><code>'route' =&gt; [
+           'controller' =&gt; 'MonController',
+          'view' =&gt; 'mavue.phtml'
+           ]
+</code></pre>
+:ET

@@ -1,0 +1,13 @@
+I"<p><small>
+La table <strong>admin</strong> = les utilisateurs (infos basique: nom, prénom, email, image, mot de passe, role, token, demande admin)</small>
+<small>La table <strong>admininfo</strong> = les infos communes aux users et aux admins (adresse, socièté, diplomes, site web, réseaux sociaux)</small>
+<small>La table <strong>adminpro</strong> = les coachs (infos sur leurs parcours, spécialités etc…)</small>
+<small>La table <strong>coaching</strong> = elle va fusionner avec la table adminpro</small>
+<small>La table <strong>custom_site</strong> va enregistrer des paramatres de design globales pour le site (couleur du header, du footer, des titres, type de police, couleur des textes etc…)</small>
+<small>La table <strong>events</strong> = les événements (titre, contenu, date, theme, image, est validé, adresse)</small>
+<small>La table <strong>history</strong> enregistre les connexions des utilisateurs</small>
+<small>La table <strong>interested</strong> fait la jonction entre l’événement et l’utilisateur si ce dernier est interréssé</small>
+<small>La table <strong>register</strong> fait la jonction entre l’événement est l’utilisateur qui s’est inscrit à cet événement</small>
+<small>La table <strong>social_media</strong> stockes les infos sensibles pour les réseaux sociaux et leur utilisation via l’API (token, clé secrète etc…)</small>
+<small>La table <strong>vote</strong> <em>permettra</em> d’enregistrer une note donnée à un coach par un utilisateur (<em>pas encore développé</em>)</small></p>
+:ET

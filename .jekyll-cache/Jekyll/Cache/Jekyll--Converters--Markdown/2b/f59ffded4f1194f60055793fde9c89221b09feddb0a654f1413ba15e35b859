@@ -1,0 +1,8 @@
+I"5<p><small>Pour Instagram la procèdure est un peu plus compliquée.</small></p>
+
+<p><small>Créer compte testeur Instagram et le valider sur Instagram</small>
+<small>Ensuite il faut exécuter une série de requête, la première pour obtenir un <code class="language-plaintext highlighter-rouge">code</code> en fin d’url</small>
+<small>Puis utiliser ce <code class="language-plaintext highlighter-rouge">code</code> pour obtenir un <code class="language-plaintext highlighter-rouge">token 1h</code></small>
+<small>Puis utiliser ce <code class="language-plaintext highlighter-rouge">token</code> pour obtenir un <code class="language-plaintext highlighter-rouge">token 60j</code></small>
+<small>J’ai simplifié ces étapes pour pouvoir les réaliser plus simplement depuis la page Réseaux Sociaux du site</small></p>
+:ET
