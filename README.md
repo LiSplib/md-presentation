@@ -1,7 +1,9 @@
-# Présentation dossier projet BARRET Jea-Christophe
+# Présentation dossier projet BARRET Jean-Christophe
 ## Développeur Web et Web Mobile
 ### AFPA LA VALETTE DU VAR
 2019-2020
+
+[Présentation](https://lisplib.github.io/md-presentation/)
 
 
 Présentation réalisée avec cet outil :
