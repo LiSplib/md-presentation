@@ -2,4 +2,4 @@
 layout: post
 ---
 
-<img src="../images/adminEdit.jpg" width=550>
+<img src="images/adminEdit.jpg" width=550>

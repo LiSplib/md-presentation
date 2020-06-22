@@ -2,4 +2,4 @@
 layout: post
 ---
 
-![instagram](../images/instagram.jpg)
+![instagram](images/instagram.jpg)

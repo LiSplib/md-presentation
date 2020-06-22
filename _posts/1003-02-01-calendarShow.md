@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![calendar](../images/calendarShow.jpg){:width="550px"}
+![calendar](images/calendarShow.jpg){:width="550px"}
 
 <small>Plus d'info sur l'événement</small>
 

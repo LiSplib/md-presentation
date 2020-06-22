@@ -2,4 +2,4 @@
 layout: post
 ---
 
-![facebook](../images/fbEvents.jpg)
+![facebook](images/fbEvents.jpg)
