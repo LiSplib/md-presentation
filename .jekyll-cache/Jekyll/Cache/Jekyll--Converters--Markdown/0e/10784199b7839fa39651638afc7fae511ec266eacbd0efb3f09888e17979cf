@@ -1,4 +1,0 @@
-I"�<h3 id="faille-csrf">Faille CSRF</h3>
-
-<p>La faille CSRF ( cross site request forgery) concerne nos utilisateurs connectés, on peut la définir simplement comme « faire exécuter a un utilisateur (connecté) des actions à son insu », pour notre application un de nos administrateurs peut par exemple supprimer un article. Pour prévenir ce type d’attaque, on utilise sur nos formulaires des jetons (token).</p>
-:ET

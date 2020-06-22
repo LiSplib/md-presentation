@@ -1,5 +1,0 @@
-I"�<h5 id="injection-sql">Injection SQL</h5>
-<p>Une attaque par injection SQL consiste à injecter du code SQL dans les requêtes qui sont faites dans la page web, le plus souvent dans les champs d’entrées ou directement das l’url de la page. De cette manière, un utilisateur malintentionné peut envoyer ses propres requêtes et donc récupérer, altérer ou supprimer des données du site. Pour prévenir les injections SQL, il faut faire appel aux requêtes préparées. 
-<img src="requete_prep.jpg" alt="Requêtes Préparées" />
-Le principe est de commencer par demander au serveur SQL d’analyser et de préparer la requête avant de lui donner les valeurs qui seront envoyées. Ces dernières seront donc totalement indépendantes et sans influences.</p>
-:ET
